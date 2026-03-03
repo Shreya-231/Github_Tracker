@@ -1,11 +1,12 @@
-🔍 GitHub Tracker
+# 🔍 GitHub Tracker
 
 A sleek, responsive web application that allows users to search for GitHub profiles and view real-time data including repositories, follower counts, and personal bios using the GitHub REST API.
 
 🚀 Live Demo
 [(https://shreya-231.github.io/Github_Tracker/)]
 
-✨ Features
+## ✨ Features
+
 Real-time Search: Instantly fetch user data by entering a GitHub username.
 
 Profile Overview: Displays avatar, bio, location, and join date.
@@ -18,7 +19,7 @@ Error Handling: Custom "User Not Found" states for a better user experience.
 
 Responsive Design: Fully optimized for mobile, tablet, and desktop views.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Technology: Purpose
 
@@ -32,7 +33,7 @@ FontAwesome: Vector icons for visual clarity
 
 GitHub API: Source of real-time user data
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 1. Clone the repository
 
@@ -48,14 +49,15 @@ cd Github_Tracker
 
 Simply open index.html in your favorite browser.
 
-💡 How it Works
+## 💡 How it Works
+
 The application uses the native JavaScript fetch() method to query two specific GitHub endpoints:
 
 1. https://api.github.com/users/{username} — For general profile data.
 
 2. https://api.github.com/users/{username}/repos — To retrieve the latest project list.
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
 
@@ -69,10 +71,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 5. Open a Pull Request
 
-📄 License
-
-Distributed under the MIT License.
-
-📄 License
+## 📄 License
 
 Distributed under the MIT License. See LICENSE for more information.
