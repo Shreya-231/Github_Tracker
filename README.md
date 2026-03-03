@@ -1,5 +1,5 @@
-https://shreya-231.github.io/Github_Tracker/
 🔍 GitHub Tracker
+
 A sleek, responsive web application that allows users to search for GitHub profiles and view real-time data including repositories, follower counts, and personal bios using the GitHub REST API.
 
 🚀 Live Demo
@@ -21,10 +21,15 @@ Responsive Design: Fully optimized for mobile, tablet, and desktop views.
 🛠️ Tech Stack
 
 Technology: Purpose
+
 HTML5: Semantic structure of the application
+
 CSS3: Custom styling and responsive layouts
+
 JavaScript (ES6+): Fetch API integration and DOM manipulation
+
 FontAwesome: Vector icons for visual clarity
+
 GitHub API: Source of real-time user data
 
 ⚙️ Installation & Setup
@@ -51,17 +56,22 @@ The application uses the native JavaScript fetch() method to query two specific 
 2. https://api.github.com/users/{username}/repos — To retrieve the latest project list.
 
 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-1. Fork the Project
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
 
-2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+1.Fork the Project.
 
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+2.Create your Feature Branch (git checkout -b feature/AmazingFeature).
+
+3.Commit your changes (git commit -m 'Add some AmazingFeature').
 
 4.Push to the Branch (git push origin feature/AmazingFeature)
 
 5. Open a Pull Request
+
+📄 License
+
+Distributed under the MIT License.
 
 📄 License
 
